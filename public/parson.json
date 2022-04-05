@@ -1,50 +1,50 @@
 [
   {
     "id": "623853b2614ad5aba311fdd1",
-    "index": 0,
-    "price": 14,
-    "name": "Just Chill",
+    "img": "https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=",
+    "text": "it's awesome",
+    "name": "Chimons haryu",
     "gender": "Just Chill"
   },
   {
     "id": "623853b2578e9e6ad1ae0dd5",
-    "index": 1,
-    "name": "Keep Coding",
-    "price": 27,
+    "img": "https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=",
+    "name": "Keen weding",
+    "text": "Nice glass",
     "gender": "Keep Coding"
   },
   {
     "id": "623853b21fb149d2ee7b76c7",
-    "index": 2,
-    "name": "Black",
-    "price": 24,
+    "img": "https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=",
+    "name": "Black panther",
+    "text": "Like it",
     "gender": ""
   },
   {
     "id": "623853b2e91c8de578c9245e",
-    "index": 3,
+    "img": "https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=",
     "name": "Mix Yellow",
-    "price": 14,
+    "text": "it's awesome",
     "gender": "Mix Yellow"
   },
   {
     "id": "623853b2239582e48409ccc6",
-    "index": 4,
-    "price": 34,
-    "name": "Bachelor",
+    "img":"https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=" ,
+    "text": "Looking cool",
+    "name": "Bacch liue",
     "gender": "male"
   },
   {
     "id": "623853b2cdda0d5bc294f791",
-    "index": 5,
-    "name": "Right Price",
-    "price": 141,
+    "img":"https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=" ,
+    "name": "Roburt pink",
+    "text": "Black glasses are cool",
     "gender": "male"
   },
   {
     "id": "623853b2736f19fd4eb8d44a",
-    "index": 6,
-    "price": 41,
+    "img": "https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8=",
+    "text": "it's awesome",
     "name": "Black Skull",
     "gender": "female"
   }

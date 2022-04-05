@@ -13,3 +13,13 @@
 .text-container{
   margin-left: 50px;
 }
+.show-all{
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+  height: 60px;
+  width: 200px;
+}
+.show-all:hover{
+  background-color: rgb(194, 164, 222);
+}

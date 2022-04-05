@@ -1,0 +1,9 @@
+.cart-container{
+ border: 2px solid rgb(233, 230, 222);
+  height: 250px;
+  width: 300px;
+}
+.cart-container img{
+  height: 50px;
+  width: 50px;
+}

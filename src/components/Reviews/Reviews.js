@@ -1,17 +1,27 @@
 import React, { useEffect, useState } from 'react';
+import useCart from '../../Hooks/usecart';
+import Carts from '../Carts/Carts';
+import './Reviews.css'
 
 const Reviews = () => {
-  const [person, setPerson] = useState([]);
+  const [carts , setCarts] = useCart();
+  
+  // const [persons, setPersons] = useState([]);
 
-  useEffect( () =>{
-    fetch('person.json')
-    .then(res => res.json())
-    .then(data => console.log(data))
-  },[])
+  // useEffect( () =>{
+  //   fetch('parson.json')
+  //   .then(res => res.json())
+  //   .then(data => setPersons(data))
+  // },[]);
 
   return (
-    <div>
-      <h1>This is Review</h1>
+    <div className='review-container'>
+      {
+        carts.map(cart => <Carts
+        key={cart.id}
+        cart = {cart}
+        ></Carts>)
+      }
     </div>
   );
 };
