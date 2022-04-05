@@ -11,7 +11,7 @@ import Navbar from './components/Navbar/Navbar';
 function App() {
   return (
     <div className='App'>
-      <h1>welcome to my New website</h1>
+      <h1>Welcome to our Ray-Ban Site</h1>
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
