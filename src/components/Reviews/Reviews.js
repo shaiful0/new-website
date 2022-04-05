@@ -4,15 +4,9 @@ import Carts from '../Carts/Carts';
 import './Reviews.css'
 
 const Reviews = () => {
-  const [carts , setCarts] = useCart();
   
-  // const [persons, setPersons] = useState([]);
+  const [carts , setCarts] = useCart();
 
-  // useEffect( () =>{
-  //   fetch('parson.json')
-  //   .then(res => res.json())
-  //   .then(data => setPersons(data))
-  // },[]);
 
   return (
     <div className='review-container'>

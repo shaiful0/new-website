@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import useCart from '../../Hooks/usecart';
 import Reviews from '../Reviews/Reviews';
@@ -20,16 +19,13 @@ const Home = () => {
   
     <h1>Customer Reviews(7)</h1>
     <div>
-     
       <Reviews
       cart={carts}>
-    
       </Reviews>
       <Link to="/reviews">
         <button className='show-all'><h2>show all</h2></button>
       </Link >
     </div>
-      
     </div>
   );
 };
