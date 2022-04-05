@@ -1,5 +1,5 @@
 import React from 'react';
-import { Bar, BarChart, CartesianGrid, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { BarChart, CartesianGrid, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 import './Dashbord.css'
 
 const Dashbord = () => {
